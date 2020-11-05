@@ -1,0 +1,9 @@
+F:\ITStep\2 курс\WF\CW\4) Lists\bin\Debug\4) Lists.exe.config
+F:\ITStep\2 курс\WF\CW\4) Lists\bin\Debug\4) Lists.exe
+F:\ITStep\2 курс\WF\CW\4) Lists\bin\Debug\4) Lists.pdb
+F:\ITStep\2 курс\WF\CW\4) Lists\obj\Debug\4) Lists.csprojAssemblyReference.cache
+F:\ITStep\2 курс\WF\CW\4) Lists\obj\Debug\_4__Lists.Form1.resources
+F:\ITStep\2 курс\WF\CW\4) Lists\obj\Debug\_4__Lists.Properties.Resources.resources
+F:\ITStep\2 курс\WF\CW\4) Lists\obj\Debug\4) Lists.csproj.GenerateResource.cache
+F:\ITStep\2 курс\WF\CW\4) Lists\obj\Debug\4) Lists.exe
+F:\ITStep\2 курс\WF\CW\4) Lists\obj\Debug\4) Lists.pdb
